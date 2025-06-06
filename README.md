@@ -17,7 +17,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Breno Pinna - :link: [Contagem de Referências](https://github.com/brenopinna/trabalho_pp_contagem_de_referencias/)
 - Jonathan Vieira - :link: [Mark-and-Sweep]()
 - Matheus Oliveira Dias - [Mark Sweep](https://github.com/Kaliberss/Mark_Sweep)
-- Rafael Miranda França - [Contagem de Referências](https://github.com/Rafaelmf03/trabalho_lp/blob/master/Trabalho1Paradigmas.c)
+- Rafael Miranda França - [Contagem de Referências](https://github.com/Rafaelmf03/trabalho_lp/blob/master/Trabalho1Paradigmas)
 
 
 ## Segundo Trabalho de Implementacao
