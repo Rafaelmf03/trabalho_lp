@@ -29,6 +29,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).
 - Estela Simões, Phelipi Machado- 🔗[Simulador de Heap](https://github.com/phelipipereira/Trabalho-PP)
 - Luis Henrique, Ana Clara Nascimento - :link: [Simulador Heap](https://github.com/lh2703/Heap)
+- Rafael Miranda França -: [Contagem de Referências] (https://github.com/Rafaelmf03/Contagem_ref.git)
 
 ## Segundo Trabalho de Implementacao
 
