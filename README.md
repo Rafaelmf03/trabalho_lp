@@ -41,6 +41,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Nicolas Mendes - Trabalho 3 - [Link](https://github.com/oNicorasu/Trab-de-PP)
 - Breno Pinna - :link: [Sistema de Batalha](https://github.com/brenopinna/trabalho_pp_sistema_de_batalha/)
 - Breno Machado - Trabalho 5 - :link: [Biblioteca](https://github.com/BMO-O/Biblioteca)
+- Rafael Miranda - Trabalho 1 - :link: (https://github.com/Rafaelmf03/agenda-OO)
+- 
 
 ## Terceiro Trabalho de Implementacao
 
